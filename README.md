@@ -109,11 +109,11 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 ## Author
 
-👤 **Hanzla Tauqeer**
+👤 **Israel Ogunsola**
 
 - Website: https://hanzla.netlify.app
-- Github: [@1hanzla100](https://github.com/1hanzla100)
-- LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
+- Github: [@Issybobo](https://github.com/Issybobo)
+- LinkedIn: [@Israel](https://www.linkedin.com/in/israel-ogunsola-480a81244)
 
 ## Show your support
 
